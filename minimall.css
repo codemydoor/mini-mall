@@ -1,0 +1,54 @@
+.header {background-color:crimson;
+	    height: 35px;
+      margin-bottom: -14px;
+}
+
+.fabs {color: white;
+      margin: 10px;
+}
+
+.headertext {float: right;
+color: white;
+font-weight: bolder;
+margin-top: 5px;
+}
+
+.carousel-inner {height: 800px;
+    width: 100%}
+
+.d-block {height: 800px;
+          width: 700px;}
+
+.box1 {background-color:#3f51b5;
+	height: 300px;
+}
+
+.box2 {background-color:deeppink;
+	height: 300px;
+	color: #3f51b5;
+
+}
+
+.img1 {margin-right: 60px;}
+
+
+	   
+.fas {color: white;
+      margin-top: 50px;
+      margin-left: 190px;
+      }
+
+
+      .money {color: white;
+        margin-top: 5px;
+        margin-left: 50px;}
+
+
+        .box3 {background-color:gold;
+  height: 300px;
+  color: #3f51b5;}
+
+  .carousel-text {text-align: right;
+
+
+  }
